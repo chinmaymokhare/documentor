@@ -10,7 +10,7 @@
 	Comments on: Hello world!	</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description>Just another WordPress site</description>
+	<description>Documentor Automatic document generator and distributor</description>
 	<lastBuildDate>Tue, 13 Jul 2021 12:05:57 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
